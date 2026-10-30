@@ -23,9 +23,8 @@ I'm a student developer from India interested in **artificial intelligence, mach
 
 I enjoy experimenting with new technologies, working with data, developing web experiences, and exploring how software can solve real problems.
 
-- 🤖 Exploring AI and machine learning
-- 🌐 Building websites and software projects
-- 📊 Working with Python, data analysis, and visualization
+- 🤖 Currently Learning RUST
+- 📊 Hands on Python, data analysis, and visualization
 - ☁️ Learning and experimenting with cloud technologies
 - 🛠️ Building my own product: [GetSafeVoice](https://www.getsafevoice.info/)
 - 🌱 Always learning, experimenting, and improving
@@ -61,13 +60,6 @@ I enjoy experimenting with new technologies, working with data, developing web e
   <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="AWS, Git, GitHub, VS Code"/>
 </p>
 
-## `$ featured_work`
-
-### 💻 Open Source & Experiments
-
-I use GitHub to explore ideas, build projects, experiment with technologies, and document what I learn.
-
-🔗 **[Explore my repositories →](https://github.com/RudranshMishra1?tab=repositories)**
 
 ## `$ currently_focused_on`
 
@@ -77,19 +69,6 @@ I use GitHub to explore ideas, build projects, experiment with technologies, and
 - Exploring cloud infrastructure and data technologies
 - Learning through experimentation and open source
 
-## `$ github_stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RudranshMishra1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudranshMishra1&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages"/>
-
-<img src="https://streak-stats.demolab.com?user=RudranshMishra1&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
-
-</div>
-
----
 
 <div align="center">
 
