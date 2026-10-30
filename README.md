@@ -2,56 +2,99 @@
 
 # Hey, I'm Rudransh Mishra 👋
 
-**Student Developer · AI/ML Enthusiast**
+### Student Developer · AI/ML Enthusiast · Builder
 
-Building software, exploring AI, and turning ideas into code.
+I enjoy turning ideas into code, exploring AI, and building things for the real world.
 
-🌐 [GetSafeVoice](https://www.getsafevoice.info/) · 💻 [GitHub Repositories](https://github.com/RudranshMishra1?tab=repositories)
+<a href="https://github.com/RudranshMishra1">
+  <img src="https://img.shields.io/badge/GitHub-RudranshMishra1-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.getsafevoice.info/">
+  <img src="https://img.shields.io/badge/My_Product-GetSafeVoice-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GetSafeVoice"/>
+</a>
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+## `$ whoami`
 
-**Languages & Web Development**
+I'm a student developer from India interested in **artificial intelligence, machine learning, software development, and building useful products.**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" height="40" alt="Python, HTML, CSS, JavaScript"/>
-</p>
+I enjoy experimenting with new technologies, working with data, developing web experiences, and exploring how software can solve real problems.
 
-**Data Science & Machine Learning**
+- 🤖 Exploring AI and machine learning
+- 🌐 Building websites and software projects
+- 📊 Working with Python, data analysis, and visualization
+- ☁️ Learning and experimenting with cloud technologies
+- 🛠️ Building my own product: [GetSafeVoice](https://www.getsafevoice.info/)
+- 🌱 Always learning, experimenting, and improving
 
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,jupyter,anaconda" height="40" alt="NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter, Anaconda"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" height="22" alt="Seaborn"/>
-</p>
+## `$ tech_stack`
 
-**Databases & Storage**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" height="40" alt="SQLite, MySQL, PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Backblaze_B2-E21E26?style=flat-square&logo=backblaze&logoColor=white" height="22" alt="Backblaze B2"/>
-  <img src="https://img.shields.io/badge/Neon-111111?style=flat-square&logo=postgresql&logoColor=white" height="22" alt="Neon"/>
-</p>
-
-**Cloud & Tools**
+### Languages & Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" height="40" alt="AWS, Git, GitHub, VS Code"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" alt="Python, HTML, CSS, JavaScript"/>
 </p>
+
+### Data Science & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,jupyter,anaconda" alt="NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter, Anaconda"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Seaborn-Data%20Visualization-4C72B0?style=flat-square" alt="Seaborn"/>
+</p>
+
+### Databases & Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql" alt="SQLite, MySQL"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Neon-Serverless%20Postgres-111111?style=flat-square&logo=postgresql&logoColor=white" alt="Neon"/>
+  <img src="https://img.shields.io/badge/Backblaze-B2%20Cloud%20Storage-C62828?style=flat-square" alt="Backblaze"/>
+</p>
+
+### Cloud, Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="AWS, Git, GitHub, VS Code"/>
+</p>
+
+## `$ featured_work`
+
+### 💻 Open Source & Experiments
+
+I use GitHub to explore ideas, build projects, experiment with technologies, and document what I learn.
+
+🔗 **[Explore my repositories →](https://github.com/RudranshMishra1?tab=repositories)**
+
+## `$ currently_focused_on`
+
+- Deepening my understanding of machine learning
+- Improving my web development skills
+- Building practical software and AI-powered products
+- Exploring cloud infrastructure and data technologies
+- Learning through experimentation and open source
+
+## `$ github_stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RudranshMishra1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudranshMishra1&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages"/>
+
+<img src="https://streak-stats.demolab.com?user=RudranshMishra1&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RudranshMishra1&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudranshMishra1&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
-</div>
-
 <div align="center">
 
-*Build. Learn. Repeat.* ✨
+**Build things. Break things. Learn things. Repeat.**
+
+*Curiosity-driven development, one commit at a time.*
 
 </div>
